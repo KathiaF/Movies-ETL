@@ -2,10 +2,11 @@
 Module 8: ETL - Extract, Transform, Load
 
 ## Project Overview
-create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. 
+The purpose of this project is to help Britta to prepare dataset for the hackathon and create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. To do this, we will follow the ETL process: extract the Wikipedia and Kaggle data from their respective files, transform the datasets by cleaning them up and joining them together, and load the cleaned dataset into a SQL database.
 
 ## Resources
 Data Source: ratings.csv, wikipedia-movies.csv, movies_metadata.csv
+
 Software: ProsgreSQL, PGAdmin, Python 3.9.0, Anaconda Navigator 2.1.1, Jupyter Notebook 6.4.6
 
 ## Results
