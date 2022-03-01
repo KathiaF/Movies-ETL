@@ -5,7 +5,7 @@ Module 8: ETL - Extract, Transform, Load
 The purpose of this project is to help Britta to prepare dataset for the hackathon and create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. To do this, we will follow the ETL process: extract the Wikipedia and Kaggle data from their respective files, transform the datasets by cleaning them up and joining them together, and load the cleaned dataset into a SQL database.
 
 ## Resources
-Data Source: ratings.csv, wikipedia-movies.csv, movies_metadata.csv
+Data Source: ratings.csv, wikipedia-movies.json, movies_metadata.csv
 
 Software: ProsgreSQL, PGAdmin, Python 3.9.0, Anaconda Navigator 2.1.1, Jupyter Notebook 6.4.6
 
@@ -48,4 +48,4 @@ Software: ProsgreSQL, PGAdmin, Python 3.9.0, Anaconda Navigator 2.1.1, Jupyter N
 <img src="Images/ratings_query.png" width="50%" height="50%">
 
 - The elapsed time to add the data to the database is displayed in the *ETL_create_database.ipynb* file
-<img src="Images/D3img2.png" width="50%" height="50%">
+<img src="Images/D4img1.png" width="50%" height="50%">
