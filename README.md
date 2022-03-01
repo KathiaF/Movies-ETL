@@ -23,5 +23,14 @@ Software: ProsgreSQL, PGAdmin, Python 3.9.0, Anaconda Navigator 2.1.1, Jupyter N
 <img src="Images/D1img4.png" width="25%" height="25%">
 
 ### Deliverable 2: Extract and Transform the Wikipedia Data
+- wiki_movies_df DataFrame
+<img src="Images/D2img1.png" width="50%" height="50%">
+
+- A try-except block is used to catch errors while extracting the IMDb IDs with a regular expression and dropping duplicate IDs
+<img src="Images/D2img3.png" width="50%" height="50%">
+
+- add the columns from wiki_movies_df DataFrame to a list
+<img src="Images/D2img2.png" width="25%" height="25%">
+
 ### Deliverable 3: Extract and Transform the Kaggle data
 ### Deliverable 4: Create the Movie Database
